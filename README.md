@@ -1,5 +1,8 @@
-# aelf price gnome ticket 
+# aelf gnome price ticker
 
-Gnome 3 desktop ticker for aelf price with Python and argos. Rename to aelf.1r.60s.py and put in ~/.config/argos
+Get aelf price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/aelf-price-gnome-ticket/](https://codesharedot.github.io/aelf-price-gnome-ticket/)
 
-https://pythonbasics.org
+aelf price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to aelf.1r60s.py and put in ~/.config/argos
